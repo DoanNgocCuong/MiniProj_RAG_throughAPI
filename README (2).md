@@ -1,0 +1,3 @@
+# Mini_RAGchatbot
+
+### Run ok => Tiếp theo chúng ta sẽ cùng nghiên cứu các kỹ thuật để nâng cao hiệu quả của RAG, AI Agent, ...
